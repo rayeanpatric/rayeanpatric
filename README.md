@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=rayeanpatric&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rayeanpatric&label=Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 📖 Currently pursuing BTECH CSE w/s AIML<br>🏫 At SRM Institute of Science and Technology, Tiruchirappalli<br>🔑 Passionate on Machine Learning and Web Development<br>🥳 Love to Code and read about Tech.<br>🧑‍💻 Specialized on Python & Javascript<br>🏷️ Live | Love | Code<br> 
