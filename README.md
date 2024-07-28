@@ -3,7 +3,6 @@
 # 💫 About Me:
 📖 Currently pursuing BTECH CSE w/s AIML<br>🏫 At SRM Institute of Science and Technology, Tiruchirappalli<br>🔑 Passionate on Machine Learning and Web Development<br>🥳 Love to Code and read about Tech.<br>🧑‍💻 Specialized on Python & Javascript<br>🏷️ Live | Love | Code<br> 
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rayeanpatric&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rayeanpatric&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayeanpatric&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
