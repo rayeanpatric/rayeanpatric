@@ -1,16 +1,16 @@
 [![](https://visitcount.itsvg.in/api?id=rayeanpatric&label=Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-📖 Currently pursuing BTECH CSE w/s AIML<br>🏫 At SRM Institute of Science and Technology, Tiruchirappalli<br>🔑 Passionate on Machine Learning and Web Development<br>🥳 Love to Code and read about Tech.<br>🧑‍💻 Specialized on Python & Javascript<br>🏷️ Live | Love | Code<br> 
-
 ---
 
 ## 🔍 About Me
 
+- 📖 Currently pursuing BTECH CSE w/s AIML
+- 🏫 At SRM Institute of Science and Technology, Tiruchirappalli
 - 💻 **Open-Source Advocate:** President of the FOSS Club, leading initiatives to promote open-source technologies and empowering students through workshops and events.
 - 📊 **Research Enthusiast:** Published multiple research papers in journals like IEEE Xplore and Cureus, focusing on AI-driven innovations and IoT applications.
 - 🤖 **AI Developer:** Experience in designing high-performance AI systems for precision agriculture, traffic safety, and facial recognition.
 - 🏆 **Achievements:** 1st Runner-Up in Talenzia 2021 (competitive coding) and recipient of a 25% merit scholarship.
+- 🏷️ Live | Love | Code
 
 ---
 
@@ -44,7 +44,7 @@
 
 - **Programming Languages:** Python, JavaScript, SQL  
 - **Core Competencies:** Machine Learning, Computer Vision, Research, Data Structures  
-- **Certifications:**  
+- **Certifications (30+):**  
   - Python Developer (Google)  
   - CUDA Toolkit & Jetson Nano Specialization (Nvidia)  
   - Machine Learning Specialization (Deeplearning.ai - Coursera)  
