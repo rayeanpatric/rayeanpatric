@@ -62,6 +62,6 @@
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Quotes" style="height: 300px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayeanpatric&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayeanpatric&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="height: 150px;" />
 </div>
 
