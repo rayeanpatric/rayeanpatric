@@ -60,9 +60,6 @@
 ---
 ✨ *"The best way to predict the future is to create it."*
 
-
-![](https://github-readme-stats.vercel.app/api?username=rayeanpatric&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rayeanpatric&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayeanpatric&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
