@@ -39,6 +39,11 @@
    - Designed an IoT-based system integrating sensors to enforce traffic rules, enhancing road safety.
 
 ---
+## ▶️ Side Hustle
+
+1. ⌛ [**Pomodoro Timer**](https://github.com/rayeanpatric/pomodoro-timer.git)
+   - Created a small pomodoro timer using arduino uno, and tried to overcome my procrastination 😅
+---
 
 ## 🛠️ Skills
 
