@@ -53,9 +53,9 @@
 
 ## 🌐 Let's Connect!
 
-- **GitHub:** [@rayeanpatric](https://github.com/rayeanpatric)  
-- **LinkedIn:** [@rayeanpatric](https://linkedin.com/in/rayeanpatric)  
-- **HackerRank:** [@rayeanpatric](https://hackerrank.com/rayeanpatric)  
+- **LinkedIn:** [linkedin.com/in/rayeanpatric](https://linkedin.com/in/rayeanpatric)  
+- **HackerRank:** [hackerrank.com/rayeanpatric](https://hackerrank.com/rayeanpatric)
+- **Portfolio:** [rayeanpatric.my.canva.site](rayeanpatric.my.canva.site)
 
 ---
 ✨ *"The best way to predict the future is to create it."*
