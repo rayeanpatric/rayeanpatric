@@ -32,11 +32,11 @@
 
 ## 📚 Publications
 
-1. **"Intelligent Vehicle Management System using IoT"** – IEEE Xplore  
-   Designed an IoT-based system integrating sensors to enforce traffic rules, enhancing road safety.
-
-2. **"Review of Various Integrative Approaches to Cardiovascular Disease and Covid-19"** – Cureus Journal  
+1. [**"Review of Various Integrative Approaches to Cardiovascular Disease and Covid-19"** – Cureus Journal](https://doi.org/10.7759/s44389-024-00191-w)
    Explored AI-driven approaches for cardiovascular disease management.
+
+2. [**"Intelligent Vehicle Management System using IoT"** – IEEE Xplore](https://doi.org/10.1109/ICESC60852.2024.10689810)
+   Designed an IoT-based system integrating sensors to enforce traffic rules, enhancing road safety.
 
 ---
 
