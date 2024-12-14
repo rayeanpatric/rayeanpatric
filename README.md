@@ -24,9 +24,9 @@
 - **Tech:** MTCNN, TensorFlow, Jetson Nano  
 - Built a face detection edge system with 92% accuracy using data augmentation and deployed on Jetson Nano.
 
-### 🔍 **NSFW Content Detection**
+### 🔍 [**NSFW Content Detection**](https://github.com/rayeanpatric/nsfw_comparison_analysis.git)
 - **Tech:** TensorFlow, PyTorch  
-- Conducted a comparative analysis of 10 models, achieving up to 94% accuracy while optimizing computational efficiency.
+- Conducted a comparative analysis of 8 models, achieving up to 95% accuracy while optimizing computational efficiency.
 
 ---
 
