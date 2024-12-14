@@ -3,12 +3,6 @@
 # 💫 About Me:
 📖 Currently pursuing BTECH CSE w/s AIML<br>🏫 At SRM Institute of Science and Technology, Tiruchirappalli<br>🔑 Passionate on Machine Learning and Web Development<br>🥳 Love to Code and read about Tech.<br>🧑‍💻 Specialized on Python & Javascript<br>🏷️ Live | Love | Code<br> 
 
-
-# 👋 Hi, I'm Rayean Patric
-
-🎓 **Computer Science Student (AI & ML Specialization)**  
-Driven by innovation and powered by curiosity, I'm a Computer Science undergraduate at SRM Institute of Science and Technology, specializing in Artificial Intelligence and Machine Learning. My work focuses on developing scalable and innovative solutions in AI, Computer Vision, and IoT.
-
 ---
 
 ## 🔍 About Me
