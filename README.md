@@ -43,6 +43,13 @@
 
 1. ⌛ [**Pomodoro Timer**](https://github.com/rayeanpatric/pomodoro-timer.git)
    - Created a small pomodoro timer using arduino uno, and tried to overcome my procrastination 😅
+
+2. 🗃️ [**SD Card Write-Protection Unlock**](https://github.com/rayeanpatric/sd-card-unlock.git)
+   - Made a MD file for unlocking write protected SD Cards at ease using Manjaro OS
+  
+3. ©️ [**Blog on What if...? Ctrl + C and Ctrl + V does not exist?**](https://medium.com/@patricrayean/what-if-ctrl-c-ctrl-v-didnt-exist-3ad4efb23ce2)
+   - A humorous blog established by me to celebrate the innovation of Copy Paste Button and to investigate what would have occurred if they did not exist.
+
 ---
 
 ## 🛠️ Skills
