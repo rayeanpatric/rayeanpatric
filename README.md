@@ -60,7 +60,7 @@
 ---
 ✨ *"The best way to predict the future is to create it."*
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Quotes" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayeanpatric&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
