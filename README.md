@@ -55,7 +55,7 @@
 
 - **LinkedIn:** [linkedin.com/in/rayeanpatric](https://linkedin.com/in/rayeanpatric)  
 - **HackerRank:** [hackerrank.com/rayeanpatric](https://hackerrank.com/rayeanpatric)
-- **Portfolio:** [rayeanpatric.my.canva.site](rayeanpatric.my.canva.site)
+- **Portfolio:** [rayeanpatric.my.canva.site](https://rayeanpatric.my.canva.site)
 
 ---
 ✨ *"The best way to predict the future is to create it."*
