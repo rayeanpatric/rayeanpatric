@@ -41,6 +41,9 @@
 ---
 ## ▶️ Side Hustle
 
+1. 🔞 [**NSFW Content Detection and Censoring**](https://github.com/rayeanpatric/nsfw_detection.git)
+   - Used the NudeNet, ffmpeg-python, and opencv packages in Python to iterate through each frame of a film and create an NSFW content detector and censor explicit areas.  
+
 1. ⌛ [**Pomodoro Timer**](https://github.com/rayeanpatric/pomodoro-timer.git)
    - Created a small pomodoro timer using arduino uno, and tried to overcome my procrastination 😅
 
