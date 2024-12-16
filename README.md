@@ -42,15 +42,18 @@
 ## ▶️ Side Hustle
 
 1. 🔞 [**NSFW Content Detection and Censoring**](https://github.com/rayeanpatric/nsfw_detection.git)
-   - Used the NudeNet, ffmpeg-python, and opencv packages in Python to iterate through each frame of a film and create an NSFW content detector and censor explicit areas.  
+   - Used the NudeNet, ffmpeg-python, and opencv packages in Python to iterate through each frame of a film and create an NSFW content detector and censor explicit areas.
+  
+2. 🙋 [**FOSS Attendance System**](https://github.com/rayeanpatric/foss-attendance-scanner)
+   - A QR-based method for scanning attendance was developed using Python and OpenCV modules. 
 
-1. ⌛ [**Pomodoro Timer**](https://github.com/rayeanpatric/pomodoro-timer.git)
+3. ⌛ [**Pomodoro Timer**](https://github.com/rayeanpatric/pomodoro-timer.git)
    - Created a small pomodoro timer using arduino uno, and tried to overcome my procrastination 😅
 
-2. 🗃️ [**SD Card Write-Protection Unlock**](https://github.com/rayeanpatric/sd-card-unlock.git)
+4. 🗃️ [**SD Card Write-Protection Unlock**](https://github.com/rayeanpatric/sd-card-unlock.git)
    - Made a MD file for unlocking write protected SD Cards at ease using Manjaro OS
   
-3. ©️ [**Blog on What if...? Ctrl + C and Ctrl + V does not exist?**](https://medium.com/@patricrayean/what-if-ctrl-c-ctrl-v-didnt-exist-3ad4efb23ce2)
+5. ©️ [**Blog on What if...? Ctrl + C and Ctrl + V does not exist?**](https://medium.com/@patricrayean/what-if-ctrl-c-ctrl-v-didnt-exist-3ad4efb23ce2)
    - A humorous blog established by me to celebrate the innovation of Copy Paste Button and to investigate what would have occurred if they did not exist.
 
 ---
