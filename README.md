@@ -4,9 +4,9 @@
 
 ## 🔍 About Me
 
-- 📖 Currently pursuing BTECH CSE w/s AIML
-- 🏫 At SRM Institute of Science and Technology, Tiruchirappalli
-- 💻 **Open-Source Advocate:** President of the FOSS Club, leading initiatives to promote open-source technologies and empowering students through workshops and events.
+- 📖 Currently pursuing B.Tech CSE w/s AIML
+- 🏫 At SRM Institute of Science and Technology Tiruchirappalli
+- 💻 **Open-Source Advocate:** President of the FOSS Society, leading initiatives to promote open-source technologies and empowering students through workshops and events.
 - 📊 **Research Enthusiast:** Published multiple research papers in journals like IEEE Xplore and Cureus, focusing on AI-driven innovations and IoT applications.
 - 🤖 **AI Developer:** Experience in designing high-performance AI systems for precision agriculture, traffic safety, and facial recognition.
 - 🏆 **Achievements:** 1st Runner-Up in Talenzia 2021 (competitive coding) and recipient of a 25% merit scholarship.
