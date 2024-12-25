@@ -16,7 +16,7 @@
 
 ## 🌟 Key Projects
 
-### 🚜 **Pest Detection for Precision Agriculture**
+### 🚜 [**Pest Detection for Precision Agriculture**](https://github.com/rayeanpatric/pest_detection.git)
 - **Tech:** YOLO, TensorRT, Jetson Nano  
 - Achieved 95% precision in pest detection with real-time inference speeds of 45 FPS, contributing to sustainable agriculture.
 
