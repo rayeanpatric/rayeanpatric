@@ -16,6 +16,11 @@
 
 ## 🌟 Key Projects
 
+### 🚜 [**A Plant Disease Diagnosis Tool + Agricultural AI Chatbot**](https://github.com/rayeanpatric/PlantDoctor.git)
+- **Tech:** Machine Learning, Groq, LLM, Edge Device Compatibility  
+- An AI-powered web application designed for rapid plant disease diagnosis and intelligent agricultural query resolution.
+- Deployed on [**Huggingface Spaces**](https://huggingface.co/spaces/rayeanpatric/PlantDoctor)
+
 ### 🚜 [**Pest Detection for Precision Agriculture**](https://github.com/rayeanpatric/pest_detection.git)
 - **Tech:** YOLO, TensorRT, Jetson Nano  
 - Achieved 95% precision in pest detection with real-time inference speeds of 45 FPS, contributing to sustainable agriculture.
@@ -73,7 +78,7 @@
 
 - **LinkedIn:** [linkedin.com/in/rayeanpatric](https://linkedin.com/in/rayeanpatric)  
 - **HackerRank:** [hackerrank.com/rayeanpatric](https://hackerrank.com/rayeanpatric)
-- **Portfolio:** [rayeanpatric.my.canva.site](https://rayeanpatric.my.canva.site)
+- **Portfolio:** [rayeanpatric.my.canva.site](https://rayeanpatric.vercel.app/)
 
 ---
 ✨ *"The best way to predict the future is to create it."*
