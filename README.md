@@ -78,7 +78,7 @@
 
 - **LinkedIn:** [linkedin.com/in/rayeanpatric](https://linkedin.com/in/rayeanpatric)  
 - **HackerRank:** [hackerrank.com/rayeanpatric](https://hackerrank.com/rayeanpatric)
-- **Portfolio:** [rayeanpatric.my.canva.site](https://rayeanpatric.vercel.app/)
+- **Portfolio:** [rayeanpatric.vercel.app](https://rayeanpatric.vercel.app/)
 
 ---
 ✨ *"The best way to predict the future is to create it."*
